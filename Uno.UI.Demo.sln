@@ -20,9 +20,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uno.UI.Demo.iOS", "Uno.UI.D
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Uno.UI.Demo.Shared\Uno.UI.Demo.Shared.projitems*{5077c264-ad1a-4ffa-899c-a564f624f161}*SharedItemsImports = 4
 		Uno.UI.Demo.Shared\Uno.UI.Demo.Shared.projitems*{6279c845-92f8-4333-ab99-3d213163593c}*SharedItemsImports = 13
-		Uno.UI.Demo.Shared\Uno.UI.Demo.Shared.projitems*{85473adf-7c3b-415b-b68d-0b90483ceb26}*SharedItemsImports = 4
 		Uno.UI.Demo.Shared\Uno.UI.Demo.Shared.projitems*{b9799c1b-6092-4df2-9274-7c127d1ab700}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -242,6 +240,8 @@ Global
 		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.AppStore|x86.Build.0 = Release|x86
 		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.AppStore|x86.Deploy.0 = Release|x86
 		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.Debug|Any CPU.Build.0 = Debug|x86
+		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.Debug|ARM.ActiveCfg = Debug|ARM
 		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.Debug|ARM.Build.0 = Debug|ARM
 		{B9799C1B-6092-4DF2-9274-7C127D1AB700}.Debug|ARM.Deploy.0 = Debug|ARM
